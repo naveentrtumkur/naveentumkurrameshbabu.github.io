@@ -55,11 +55,11 @@ defaultContentLanguageInSubdir = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "Ohio State University", url = "https://www.osu.edu" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
+  email = "naveentrrko@gmail.com"
   address = "245 West 9th Ave, Ohio State University, Ohio, 43201, USA"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "614"
@@ -232,7 +232,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "//github.com/naveentrtumkur"
 
 
 # Navigation Links
