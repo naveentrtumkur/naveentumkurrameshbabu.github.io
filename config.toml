@@ -223,6 +223,12 @@ defaultContentLanguageInSubdir = false
     icon = "twitter"
     icon_pack = "fa"
     link = "//twitter.com/naveentrrko"
+    
+    [[params.social]]
+    icon = "facebook"
+    icon_pack = "fa"
+    link = "https://www.facebook.com/naveen.tr.779"
+
 
   [[params.social]]
     icon = "linkedin"
