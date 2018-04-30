@@ -235,6 +235,7 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "https://www.linkedin.com/in/naveen-tumkur-ramesh-babu-62567782/"
 
+#github social network
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
@@ -264,6 +265,7 @@ defaultContentLanguageInSubdir = false
   url = "#posts"
   weight = 3
 
+#Projects list here
 [[menu.main]]
   name = "Projects"
   url = "#projects"
