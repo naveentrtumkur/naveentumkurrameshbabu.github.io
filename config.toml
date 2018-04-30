@@ -214,11 +214,13 @@ defaultContentLanguageInSubdir = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
+# Email
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
     link = "mailto:naveentumkurrameshbabu.1@osu.edu"
 
+#Twitter
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
