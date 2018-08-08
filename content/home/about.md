@@ -18,7 +18,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "BSc in Computer Science"
+  course = "BS in Computer Science"
   institution = "Siddaganga Institute of Technology"
   year = 2015
 
@@ -33,4 +33,4 @@ weight = 5
 
 # Biography
 
-Naveen Tumkur Ramesh Babu is a Master's Student in Computer Science at Ohio State University. His research interests include Autonomous Unmanned Aerial Vehicle, Big Data, Distributed Systems and programmable matter.  
+Naveen Tumkur Ramesh Babu is a Master's Student in Computer Science at Ohio State University. His research interests include Autonomous Unmanned Aerial Vehicle, Big Data, Distributed Systems, Machine Learning and programmable matter.  
