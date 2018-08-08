@@ -12,8 +12,7 @@ weight = 5
   interests = [
     "Autonomous UAV",
     "Machine learning",
-    "Distributed Systems",
-    "Big Data",
+    "Big Data and Distributed Systems",
     "Software Systems"
   ]
 
@@ -34,4 +33,4 @@ weight = 5
 
 # Biography
 
-Naveen Tumkur Ramesh Babu is a Master's Student in Computer Science at Ohio State University. His research interests include Autonomous Unmanned Aerial Vehicle, Distributed Systems, Big Data and programmable matter.  
+Naveen Tumkur Ramesh Babu is a Master's Student in Computer Science at Ohio State University. His research interests include Autonomous Unmanned Aerial Vehicle, Big Data, Distributed Systems and programmable matter.  
