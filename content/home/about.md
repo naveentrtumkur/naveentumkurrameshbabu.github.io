@@ -18,14 +18,16 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
+  course = "MS in Computer Science"
+  institution = "The Ohio State University"
+  year = 2019
+  
+[[education.courses]]
   course = "BS in Computer Science"
   institution = "Siddaganga Institute of Technology"
   year = 2015
 
-[[education.courses]]
-  course = "MS in Computer Science"
-  institution = "The Ohio State University"
-  year = 2019
+
 
 
  
